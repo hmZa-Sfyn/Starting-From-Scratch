@@ -1,0 +1,32 @@
+# Web Development & APIs
+giraffe
+saturn
+suave
+http.fs
+fable.remoting
+
+# Data Processing
+fsharp.data
+csvprovider
+deedle
+mathnet.numerics
+
+# Serialization
+newtonsoft.json
+fsharp.data.xml
+protobuf-fsharp
+system.text.json
+
+# Testing
+expecto
+fscheck
+unquote
+nunit
+xunit
+
+# Utilities & Miscellaneous
+thoth.json
+hopac
+fable
+awaiting
+simpleinjector

@@ -1,0 +1,43 @@
+# Web Development & APIs
+spring-boot
+spark-java
+dropwizard
+micronaut
+jersey
+spring-security
+
+# Data Access
+hibernate
+jooq
+mybatis
+jdbc
+spring-data-jpa
+
+# Asynchronous & Reactive Programming
+rxjava
+projectreactor
+vert.x
+akjava
+
+# Testing & Quality Assurance
+junit
+mockito
+assertj
+testng
+cucumber
+powermock
+
+# Serialization & Data Formats
+jackson
+gson
+protobuf-java
+json-simple
+xmlbeans
+
+# Utilities & Miscellaneous
+guava
+apache-commons
+log4j
+slf4j
+lombok
+javatuples

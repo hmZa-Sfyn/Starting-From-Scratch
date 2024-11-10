@@ -1,0 +1,39 @@
+# Web Development & APIs
+ktor
+spring-boot
+http4k
+koin
+micronaut
+
+# Data Access
+exposed
+jdbi
+hibernate
+ktorm
+
+# Asynchronous & Coroutines
+kotlinx.coroutines
+flow
+rxkotlin
+reactor-kotlin
+
+# Serialization
+kotlinx.serialization
+moshi
+gson
+jackson
+
+# Testing
+kotest
+mockk
+kotlin-test
+junit
+assertk
+
+# Utilities & Miscellaneous
+anko
+kotlinx-datetime
+fuel
+arrow
+logback
+slf4j

@@ -1,0 +1,48 @@
+# Web Development & APIs
+aspnetcore
+restsharp
+swashbuckle
+dapper
+nancy
+
+# Data Access
+entityframeworkcore
+dapper
+mongodb
+sqlclient
+npgsql
+
+# Asynchronous Programming & Multi-threading
+system.threading.tasks
+system.reactive
+asyncawait
+tpl-dataflow
+
+# Serialization
+newtonsoft.json
+system.text.json
+protobuf-net
+yaml-dotnet
+messagepack
+
+# Game Development
+unityengine
+monogame
+godot
+dotnet-mono
+stride3d
+
+# Testing & Quality Assurance
+nunit
+xunit
+mstest
+moq
+fluentassertions
+nsubstitute
+
+# Utilities & Miscellaneous
+autofac
+serilog
+log4net
+mapster
+polly
